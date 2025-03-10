@@ -1,4 +1,4 @@
-## Hi there 👋 i'm web developer.
+## Hi there 👋 i'm web developer, i also practise mobile application development, as well as databases. 
 
 <!--
 **Nicolas-Alex/Nicolas-Alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
